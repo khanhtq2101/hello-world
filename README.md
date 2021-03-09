@@ -8,3 +8,5 @@ for i in range(3):
 h = int(input('high of triangle:'))
 for i in range(h):
   print('>')
+
+this is the new feature
